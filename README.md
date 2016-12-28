@@ -9,6 +9,7 @@ Redactions must be turned into strikethrough and a comment added stating _why_ t
 
 * [Post-mortems](#post-mortems)
 * [Training](#training)
+* [Generic resources](#generic-resources)
 
 ## Post-mortems
 
@@ -31,3 +32,7 @@ Each session must have ideas (laughably vague is fine) for how this knowledge ca
 #### Resources
 
 _None yet._
+
+## Generic resources
+
+[RisingStack's Node Checklist](https://node-checklist.risingstack.com/)
