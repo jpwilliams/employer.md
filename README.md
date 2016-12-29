@@ -2,6 +2,8 @@
 
 Versioned and revised ideas for how to run a good tech company.
 
+These are not tried-and-tested ideas and they may well flop horribly if put into practice, but I want to use this as more of a versioned mind map than a religious text.
+
 Edits can just be plain edited.
 Redactions must be turned into strikethrough and a comment added stating _why_ the text/point is being removed.
 
