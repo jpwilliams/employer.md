@@ -11,6 +11,7 @@ Redactions must be turned into strikethrough and a comment added stating _why_ t
 
 * [Post-mortems](#post-mortems)
 * [Training](#training)
+* [Versioning](#versioning)
 * [Generic resources](#generic-resources)
 
 ## Post-mortems
@@ -30,6 +31,16 @@ As you move your application to production, you will run into problems no matter
 Trainings days, afternoons or even an hour a week can help.
 Have someone new teach each time. Imparting knowledge to others solidifes it in your own mind.
 Each session must have ideas (laughably vague is fine) for how this knowledge can be applied in the "real" world.
+
+#### Resources
+
+_None yet._
+
+## Versioning
+
+Version everything. (Why?)
+
+Items should be categorised into "new features", "improvements" and "bugs".
 
 #### Resources
 
